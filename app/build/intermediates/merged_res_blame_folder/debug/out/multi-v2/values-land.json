@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.hyperborge.pablosnake.app-mergeDebugResources-34:/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\jeppe\\.gradle\\caches\\transforms-3\\3af93d8beccb260c10a36f1f426adca1\\transformed\\ui-1.1.1\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
